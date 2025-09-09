@@ -1,0 +1,9 @@
+html {
+	font-size: 62.5% !important;
+}
+
+html,
+body,
+#root {
+	height: 100%;
+}
