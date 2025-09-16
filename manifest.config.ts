@@ -9,8 +9,7 @@ export default defineManifest({
 	author: {
 		email: "ericyuanovo@gmail.com"
 	},
-	permissions: ["storage", "tabs", "scripting", "activeTab"],
-	host_permissions: ["<all_urls>"],
+	permissions: ["storage", "scripting", "activeTab"],
 	icons: {
 		16: "icon-16.png",
 		32: "icon-32.png",
